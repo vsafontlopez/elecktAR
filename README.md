@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>elecktAR
+  elecktAR
 </p>
   
 <p align="center">
