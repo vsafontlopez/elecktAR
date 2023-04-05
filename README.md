@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  [# elecktAR](https://openaccess.uoc.edu/handle/10609/138366)
+  # elecktAR
   Visit https://openaccess.uoc.edu/handle/10609/138366
 </p>
 
