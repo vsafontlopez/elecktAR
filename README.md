@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  **elecktAR**
+  #elecktAR
 </p>
   
 <p align="center">
