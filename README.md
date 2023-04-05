@@ -11,6 +11,6 @@
 </p>
 
 <p align="center">
-  Visit: https://openaccess.uoc.edu/handle/10609/138366
+  🔗 Visit: https://openaccess.uoc.edu/handle/10609/138366
 </p>
 
