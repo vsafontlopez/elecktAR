@@ -1,4 +1,4 @@
-![](https://github.com/vsafontlopez/elecktAR/blob/main/assets/elecktAR_icon.png=200x200)
+![](https://github.com/vsafontlopez/elecktAR/blob/main/assets/elecktAR_icon.png =250x250)
 
 [# elecktAR](https://openaccess.uoc.edu/handle/10609/138366)
 
