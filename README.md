@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  "#9 elecktAR"
+  elecktAR
 </p>
   
 <p align="center">
