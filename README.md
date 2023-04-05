@@ -1,6 +1,6 @@
-<h1 align="center">
+<p align="center">
 ![](https://github.com/vsafontlopez/elecktAR/blob/main/assets/elecktAR_icon.png)
-</h1>
+</p>
 
 <h1 align="center">
 [# elecktAR](https://openaccess.uoc.edu/handle/10609/138366)
