@@ -1,10 +1,11 @@
 <p align="center">
-  <img width="183" height="201" src="https://github.com/vsafontlopez/elecktAR/blob/main/assets/elecktAR_icon.png">
+  <img width="131" height="144" src="https://github.com/vsafontlopez/elecktAR/blob/main/assets/elecktAR_icon.png">
 </p>
 
-[# elecktAR](https://openaccess.uoc.edu/handle/10609/138366)
+<div align="center">[# elecktAR](https://openaccess.uoc.edu/handle/10609/138366)</div>
 
-An open source Android app that proposes a novel approach for learning electronics based on Augmented Reality (AR)
+<div align="center">An open source Android app that proposes a novel approach for learning electronics based on Augmented Reality (AR)
+</div>
 
 
 
