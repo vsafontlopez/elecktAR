@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
 ![](https://github.com/vsafontlopez/elecktAR/blob/main/assets/elecktAR_icon.png)
 </p>
 
