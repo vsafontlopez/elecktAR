@@ -2,9 +2,9 @@
   <img width="105" height="115" src="https://github.com/vsafontlopez/elecktAR/blob/main/assets/elecktAR_icon.png">
 </p>
 
-#<b><p align="center">
-  elecktAR
-</p></b>#
+<b><p align="center">
+  **elecktAR**
+</p></b>
 
   
 <p align="center">
