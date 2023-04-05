@@ -8,7 +8,7 @@
 
   
 <p align="center">
-  An open source Android app that proposes a novel approach for learning electronics
+  An open source Android app that proposes a novel approach for learning electronics<br>
   based on Augmented Reality (AR)
 </p>
 
