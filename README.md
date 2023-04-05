@@ -3,7 +3,7 @@
 </p>
 
 <b><p align="center">
-  elecktAR
+  ⭐ elecktAR ⭐
 </p></b>
   
 <p align="center">
