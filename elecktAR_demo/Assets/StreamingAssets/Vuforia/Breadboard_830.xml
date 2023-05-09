@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Breadboard_830" motionHint="static" trackingMode="car"/>
+
+</Tracking>
+
+<Assembly name="Breadboard_830s_assembly" assemblyId="0737d4c4671d4d538ad3d20e1979bc2d">
+<Part name="Breadboard_830" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.000104568 -1.33757e-08 0.153" rotation="AD: 1 1.49373e-11 -0.000341725 180" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

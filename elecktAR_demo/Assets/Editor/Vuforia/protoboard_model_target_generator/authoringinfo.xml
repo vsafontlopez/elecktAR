@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.5.5">
+<ModelTarget name="protoboard_model_target_generator" targetId="da5ae71919a04c6d90354ef35302039b" version="14.0" toolVersion="10.5.5" bbox="-0.028351 -0.000080 -0.082080 0.027330 0.008612 0.082080" previewImage="da5ae71919a04c6d90354ef35302039b_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="protoboard_model_target_generators_assembly" assemblyId="8fbf306373f2494f87397ae3df401126">
+<Part name="protoboard_model_target_generator" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="1.17813e-08 -0.00190623 0.197657" rotation="AD: -0.942809 -0.544331 0.942809 138.59" image="" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0002" translation="0 -1.4687e-08 0.168" rotation="AD: -0.894427 -0.894427 0.894427 120" image="" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0003" translation="0.0100919 -0.00575633 0.157236" rotation="AD: 0.998595 0.114543 -0.536127 201.215" image="" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

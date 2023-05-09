@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="pulsador_abierto4" size="10.000000 9.981818" />
+    <ImageTarget name="pulsador_cerrado4" size="10.000000 9.981818" />
+    <ImageTarget name="zumbador4" size="10.000000 9.981818" />
+    <ImageTarget name="voltimetro4" size="10.000000 9.981818" />
+    <ImageTarget name="toma_tierra4" size="10.000000 9.981818" />
+    <ImageTarget name="resistencia4_2" size="10.000000 9.981818" />
+    <ImageTarget name="resistencia4" size="10.000000 9.981818" />
+    <ImageTarget name="pila4" size="10.000000 9.981818" />
+    <ImageTarget name="motor4" size="10.000000 9.981818" />
+    <ImageTarget name="led" size="10.000000 9.981818" />
+    <ImageTarget name="interruptor_cerrado4" size="10.000000 9.981818" />
+    <ImageTarget name="interruptor_abierto4" size="10.000000 9.981818" />
+    <ImageTarget name="fusible4" size="10.000000 9.981818" />
+    <ImageTarget name="condensador4" size="10.000000 9.981818" />
+    <ImageTarget name="cable4" size="10.000000 9.981818" />
+    <ImageTarget name="bombilla4" size="10.000000 9.981818" />
+    <ImageTarget name="atomo4" size="10.000000 9.981818" />
+    <ImageTarget name="amperimetro4" size="10.000000 9.981818" />
+  </Tracking>
+</QCARConfig>
