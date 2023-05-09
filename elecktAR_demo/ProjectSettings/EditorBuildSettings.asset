@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/0_Main_scene.unity
+    guid: 91531e02281bdc2449661e3570ae77fe
+  - enabled: 1
+    path: Assets/Scenes/1_Protoboard.unity
+    guid: ae545b372bf50bc43a6c1e5c85a05873
+  - enabled: 1
+    path: Assets/Scenes/2_Flashcards.unity
+    guid: 94c2df22b1f0d1a46829a15e96bb9f47
+  - enabled: 1
+    path: Assets/Scenes/3_Circuito_1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/4_Circuito_2.unity
+    guid: 7c52ecf06aa2962459a9fe4e48261aec
+  - enabled: 1
+    path: Assets/Scenes/5_Circuito_3.unity
+    guid: c0aeb6f1e850c1948b28bc75c16337b2
+  - enabled: 1
+    path: Assets/Scenes/6_Circuito_4.unity
+    guid: f76b37d52793e2b4497da929123ad41e
+  - enabled: 1
+    path: Assets/Scenes/7_Circuito_5.unity
+    guid: 40ab02dd75ee9d74688da8e8ed031402
+  - enabled: 1
+    path: Assets/Scenes/8_Circuito_6.unity
+    guid: f7b5aef156705e640bbf96cdf1aecec3
+  - enabled: 1
+    path: Assets/Scenes/9_Circuito_7.unity
+    guid: f9cbaed4aef1c9649968e45787e93201
+  - enabled: 1
+    path: Assets/Scenes/10_Circuito_8.unity
+    guid: 2a8dcd3aca7d46745807ba7473c33818
+  - enabled: 1
+    path: Assets/Scenes/11_Circuito_9.unity
+    guid: 3f8fe12aeed76304abb0dfbc9dad20e0
+  - enabled: 1
+    path: Assets/Scenes/12_Circuito_10.unity
+    guid: a237646fe36b90d438d20e7c7d02a833
+  - enabled: 1
+    path: Assets/Scenes/13_Circuito_11.unity
+    guid: 39d3ac0474483634a8de9c12619322dd
+  - enabled: 1
+    path: Assets/Scenes/14_Circuito_12.unity
+    guid: ac86bd07b6616a54ca09f58edb2e764a
+  - enabled: 1
+    path: Assets/Scenes/15_CalculoValorResistencia.unity
+    guid: 944c61a078742df4d95889d87bfcb710
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4569bd12af8abc54d87e32f88085256a, type: 2}
