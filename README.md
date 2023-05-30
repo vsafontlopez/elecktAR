@@ -20,9 +20,9 @@
 
 1. Navigate to the download page for Unity Hub: https://unity.com/download
 2. Click on:
-<p>2.1. Download for Windows and save the file UnityHubSetup.exe</p>
-<p>2.2. Download for Mac and save the file UnitHubSetup.dmg</p>
-<p>2.3. Instructions for Linux</p>
+   <p>2.1. Download for Windows and save the file UnityHubSetup.exe</p>
+   <p>2.2. Download for Mac and save the file UnitHubSetup.dmg</p>
+   <p>2.3. Instructions for Linux</p>
 3. Follow the instructions onscreen for guidance through the installation process and setup.
 4. Now Unity Hub is open. Navigate to the Installs tab, located on the left hand side, click on the Add button, and choose your Unity Version.
 We recommend Unity Version 2020.3.13f1.
