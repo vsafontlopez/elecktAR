@@ -107,7 +107,9 @@ Various electrical 3D model components are included in electkARs’ GitHub Repos
    <img width="530" height="190" src="https://github.com/vsafontlopez/elecktAR/blob/main/assets/unity_hub_installs.png">
    <p>If Android Build Support isn’t installed in the Unity Version, you have to install it by clicking on the dropdown at the top-right corner of the Unity Version and selecting the Add Modules option.</p>
 2. With Android Build Support installed, open the project, go to File → Build Settings, select Android platform, and click on Switch Platform.
-When your platform is switched over to Android, the Switch Platform button will be replaced with the Build button.
+   <p></p>
+   <img width="530" height="190" src="https://github.com/vsafontlopez/elecktAR/blob/main/assets/file_build_settings.png">
+   <p>When your platform is switched over to Android, the Switch Platform button will be replaced with the Build button.</p>
 3. Check that all the Scenes are inserted.
 4. Click on Build button, select a location to save your apk file, give it a name and click on Save.
 5. Copy the apk file to a device and enjoy.
