@@ -14,7 +14,7 @@
   for learning electronics based on Augmented Reality (AR)
 </p>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <b><p align="center">
 [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)](https://unity3d.com)
 [![Ask Me Anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/vsafontlopez/elecktAR)
