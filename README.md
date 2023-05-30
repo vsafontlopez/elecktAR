@@ -1,4 +1,6 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <p align="center">
   <img width="105" height="115" src="https://github.com/vsafontlopez/elecktAR/blob/main/assets/elecktAR_icon.png">
@@ -14,6 +16,8 @@
   for learning electronics based on Augmented Reality (AR)
 </p>
 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <b>How to install Unity Hub?</b>
@@ -29,6 +33,7 @@ We recommend Unity Version 2020.3.13f1.
    <p>If you can’t find the version, please visit https://unity.com/releases/editor/archive for Long Term Support releases.</p>
 5. Unity allows the installation of modules, so make sure that the box is ticked for those modules you need. In this project Microsoft Visual Studio and Android Build Support are used.
 6. Unity will take quite a while to install; keep calm and don’t worry!
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <b>How to activate a license to use Unity?</b>
 
@@ -37,6 +42,7 @@ We recommend Unity Version 2020.3.13f1.
 3. Click on SAVE LICENSE REQUEST and save the Unity_lic.alf file with the license.
 4. Select the Unity license to activate and click DONE.
 5. Click on ACTIVATE NEW LICENSE.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The project has the Vuforia SDK installed but requires a license key that uniquely identifies the app and enables Vuforia Engine AR features to work properly.
 
@@ -49,6 +55,7 @@ The project has the Vuforia SDK installed but requires a license key that unique
 4. Click on your application name under the License Manager tab.
 5. Copy your license key.
 6. Paste it into your license key field given in AR camera (Vuforia Behaviour (Script) – Open Vuforia Engine configuration – App License Key).
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <b>How to download eleckt[AR] from GitHub?</b>
 
@@ -62,6 +69,7 @@ The project has the Vuforia SDK installed but requires a license key that unique
    <p>4.2.1. Locate elecktAR_demo → Packages → com.ptc.vuforia.engine-10.2.5.tgz.</p>
    <p>4.2.2. Click on the file and click on Raw button, on the right of the top corner.</p>
    <p>4.2.3.Replace the downloaded file in the zipped folder for this one.</p>
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <b>How to add the downloaded project?</b>
 
@@ -69,6 +77,7 @@ The project has the Vuforia SDK installed but requires a license key that unique
 2. With the Projects tab selected, click on ADD to manually add a project.
 3. Locate the project folder using the file explorer, then click on Select Folder.
 4. The project will immediately appear in the Projects list and be added to the Unity Hub.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This version of elecktAR works with twelve scenes to create your own circuits. The circuits 1, 7, and 12 are examples to show how it works.
 
@@ -81,6 +90,7 @@ Various electrical 3D model components are included in electkARs’ GitHub Repos
 4. Place the 3d model over the breadboard 3D model.
 5. Repeat steps 3 and 4 until you have created the electrical circuit that you need.
 6. Save the changes and enjoy learning.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <b>How to build the apk file in Unity?</b>
 
@@ -91,3 +101,6 @@ When your platform is switched over to Android, the Switch Platform button will 
 3. Check that all the Scenes are inserted.
 4. Click on Build button, select a location to save your apk file, give it a name and click on Save.
 5. Copy the apk file to a device and enjoy.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
