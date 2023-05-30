@@ -17,7 +17,7 @@
 </p>
 
 
-How to install Unity Hub?
+<b>How to install Unity Hub?</b>
 
 1. Navigate to the download page for Unity Hub: https://unity.com/download
 2. Click on:
