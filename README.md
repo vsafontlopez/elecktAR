@@ -26,7 +26,7 @@
 3. Follow the instructions onscreen for guidance through the installation process and setup.
 4. Now Unity Hub is open. Navigate to the Installs tab, located on the left hand side, click on the Add button, and choose your Unity Version.
 We recommend Unity Version 2020.3.13f1.
-<p>If you can’t find the version, please visit https://unity.com/releases/editor/archive for Long Term Support releases.</p>
+   <p>If you can’t find the version, please visit https://unity.com/releases/editor/archive for Long Term Support releases.</p>
 5. Unity allows the installation of modules, so make sure that the box is ticked for those modules you need. In this project Microsoft Visual Studio and Android Build Support are used.
 6. Unity will take quite a while to install; keep calm and don’t worry!
 
