@@ -33,7 +33,7 @@ If you can’t find the version, please visit https://unity.com/releases/editor/
 
 
 
-How to activate a license to use Unity?
+<b>How to activate a license to use Unity?</b>
 
 1. Open Unity Hub and sign into your Unity ID using the account icon in the top right of the window. If you don’t have a Unity account, create one by visiting https://id.unity.com.
 2. Once logged in, click the cog icon in the top right hand corner and navigate to the License Management tab.
@@ -45,7 +45,7 @@ How to activate a license to use Unity?
 
 The project has the Vuforia SDK installed but requires a license key that uniquely identifies the app and enables Vuforia Engine AR features to work properly.
 
-How to create a Vuforia license key?
+<b>How to create a Vuforia license key?</b>
 
 1. You will need a Vuforia Engine Developer account with a Basic or Premium plan to create license keys; if you have an account, login; otherwise Register: https://developer.vuforia.com/
 2. In the Vuforia dashboard, select the Develop tab, and click on Get Basic.
@@ -57,7 +57,7 @@ How to create a Vuforia license key?
 
 
 
-How to download eleckt[AR] from GitHub?
+<b>How to download eleckt[AR] from GitHub?</b>
 
 1. Navigate to GitHub Repository and locate elecktAR in the search bar on the right of the top corner.
 2. Click on the green Code button at the top right and select Download Zip. This will download the entire repository as a zipped folder.
@@ -72,7 +72,7 @@ Replace the downloaded file in the zipped folder for this one.
 
 
 
-How to add the downloaded project?
+<b>How to add the downloaded project?</b>
 
 1. With eleckt[AR] folder downloaded from GitHub to a location of your choosing, open the Unity Hub.
 2. With the Projects tab selected, click on ADD to manually add a project.
@@ -83,7 +83,7 @@ How to add the downloaded project?
 
 This version of elecktAR works with twelve scenes to create your own circuits. The circuits 1, 7, and 12 are examples to show how it works.
 
-How to edit a Scene in Unity?
+<b>How to edit a Scene in Unity?</b>
 
 1. Select the Scene in Unity to edit.
 2. From the hierarchy menu on the left, select ModelTarget → protoboard_model_target_generator.
@@ -95,7 +95,7 @@ Various electrical 3D model components are included in electkARs’ GitHub Repos
 
 
 
-How to build the apk file in Unity?
+<b>How to build the apk file in Unity?</b>
 
 1. On Unity Hub, go to the Installs tab and check if Android Build Support is installed in the Unity Version.
 If Android Build Support isn’t installed in the Unity Version, you have to install it by clicking on the dropdown at the top-right corner of the Unity Version and selecting the Add Modules option.
