@@ -12,6 +12,8 @@
   for learning electronics based on Augmented Reality (AR)
 </p>
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <b>How to install Unity Hub?</b>
 
 1. Navigate to the download page for Unity Hub: https://unity.com/download
