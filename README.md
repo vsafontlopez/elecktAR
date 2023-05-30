@@ -20,6 +20,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Hello !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/vsafontlopez/elecktAR)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/vsafontlopez/elecktAR)
 
 <b>How to install Unity Hub?</b>
