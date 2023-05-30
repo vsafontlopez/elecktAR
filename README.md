@@ -16,23 +16,19 @@
   🔗 Visit: https://openaccess.uoc.edu/handle/10609/138366
 </p>
 
-<p></p>
-
 <b>How to install Unity Hub?</b>
 
 1. Navigate to the download page for Unity Hub: https://unity.com/download
 2. Click on:
-2.1. Download for Windows and save the file UnityHubSetup.exe
-2.2. Download for Mac and save the file UnitHubSetup.dmg
-2.3. Instructions for Linux
+<p>2.1. Download for Windows and save the file UnityHubSetup.exe</p>
+<p>2.2. Download for Mac and save the file UnitHubSetup.dmg</p>
+<p>2.3. Instructions for Linux</p>
 3. Follow the instructions onscreen for guidance through the installation process and setup.
 4. Now Unity Hub is open. Navigate to the Installs tab, located on the left hand side, click on the Add button, and choose your Unity Version.
 We recommend Unity Version 2020.3.13f1.
 If you can’t find the version, please visit https://unity.com/releases/editor/archive for Long Term Support releases.
 5. Unity allows the installation of modules, so make sure that the box is ticked for those modules you need. In this project Microsoft Visual Studio and Android Build Support are used.
 6. Unity will take quite a while to install; keep calm and don’t worry!
-
-
 
 <b>How to activate a license to use Unity?</b>
 
@@ -41,8 +37,6 @@ If you can’t find the version, please visit https://unity.com/releases/editor/
 3. Click on SAVE LICENSE REQUEST and save the Unity_lic.alf file with the license.
 4. Select the Unity license to activate and click DONE.
 5. Click on ACTIVATE NEW LICENSE.
-
-
 
 The project has the Vuforia SDK installed but requires a license key that uniquely identifies the app and enables Vuforia Engine AR features to work properly.
 
@@ -55,8 +49,6 @@ The project has the Vuforia SDK installed but requires a license key that unique
 4. Click on your application name under the License Manager tab.
 5. Copy your license key.
 6. Paste it into your license key field given in AR camera (Vuforia Behaviour (Script) – Open Vuforia Engine configuration – App License Key).
-
-
 
 <b>How to download eleckt[AR] from GitHub?</b>
 
@@ -71,16 +63,12 @@ Replace the downloaded file in the zipped folder for this one.
 Click on the file and click on Raw button, on the right of the top corner.
 Replace the downloaded file in the zipped folder for this one.
 
-
-
 <b>How to add the downloaded project?</b>
 
 1. With eleckt[AR] folder downloaded from GitHub to a location of your choosing, open the Unity Hub.
 2. With the Projects tab selected, click on ADD to manually add a project.
 3. Locate the project folder using the file explorer, then click on Select Folder.
 4. The project will immediately appear in the Projects list and be added to the Unity Hub.
-
-
 
 This version of elecktAR works with twelve scenes to create your own circuits. The circuits 1, 7, and 12 are examples to show how it works.
 
@@ -93,8 +81,6 @@ Various electrical 3D model components are included in electkARs’ GitHub Repos
 4. Place the 3d model over the breadboard 3D model.
 5. Repeat steps 3 and 4 until you have created the electrical circuit that you need.
 6. Save the changes and enjoy learning.
-
-
 
 <b>How to build the apk file in Unity?</b>
 
