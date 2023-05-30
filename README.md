@@ -108,6 +108,7 @@ Various electrical 3D model components are included in electkARs’ GitHub Repos
    <p>If Android Build Support isn’t installed in the Unity Version, you have to install it by clicking on the dropdown at the top-right corner of the Unity Version and selecting the Add Modules option.</p>
 2. With Android Build Support installed, open the project, go to File → Build Settings, select Android platform, and click on Switch Platform.
    <p></p>
+   <align="center">
    <img width="240" height="238" src="https://github.com/vsafontlopez/elecktAR/blob/main/assets/file_build_settings.png">
    <p>When your platform is switched over to Android, the Switch Platform button will be replaced with the Build button.</p>
 3. Check that all the Scenes are inserted.
