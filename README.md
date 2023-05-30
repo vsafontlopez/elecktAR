@@ -119,7 +119,7 @@ Various electrical 3D model components are included in electkARs’ GitHub Repos
    <p align="center">
    <img width="730" height="160" src="https://github.com/vsafontlopez/elecktAR/blob/main/assets/scenes.png">
    </p>
-5. Click on Build button <img width="72" height="15" src="https://github.com/vsafontlopez/elecktAR/blob/main/assets/build_button.png">, select a location to save your apk file, give it a name and click on Save.
+5. Click on Build button <img width="85" height="19" src="https://github.com/vsafontlopez/elecktAR/blob/main/assets/build_button.png">, select a location to save your apk file, give it a name and click on Save.
 6. Copy the apk file to a device and enjoy.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
