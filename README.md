@@ -20,7 +20,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Generic badge](https://img.shields.io/badge/<Hello>-<Welcome to elecktAR>-<success>.svg)](https://shields.io/)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
 <b>How to install Unity Hub?</b>
 
