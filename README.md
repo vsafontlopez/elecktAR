@@ -12,10 +12,6 @@
   for learning electronics based on Augmented Reality (AR)
 </p>
 
-<p align="center">
-  🔗 Visit: https://openaccess.uoc.edu/handle/10609/138366
-</p>
-
 <b>How to install Unity Hub?</b>
 
 1. Navigate to the download page for Unity Hub: https://unity.com/download
