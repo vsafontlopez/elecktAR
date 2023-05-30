@@ -43,7 +43,7 @@ We recommend Unity Version 2020.3.13f1.
 6. Unity will take quite a while to install; keep calm and don’t worry!
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<b>How to activate a license to use Unity?</b>
+<b>How to activate a license to use Unity? :heavy_check_mark:</b>
 
 1. Open Unity Hub and sign into your Unity ID using the account icon in the top right of the window. If you don’t have a Unity account, create one by visiting https://id.unity.com.
 2. Once logged in, click the cog icon in the top right hand corner and navigate to the License Management tab.
@@ -54,7 +54,7 @@ We recommend Unity Version 2020.3.13f1.
 
 The project has the Vuforia SDK installed but requires a license key that uniquely identifies the app and enables Vuforia Engine AR features to work properly.
 
-<b>How to create a Vuforia license key?</b>
+<b>How to create a Vuforia license key? :key:</b>
 
 1. You will need a Vuforia Engine Developer account with a Basic or Premium plan to create license keys; if you have an account, login; otherwise Register: https://developer.vuforia.com/
 2. In the Vuforia dashboard, select the Develop tab, and click on Get Basic.
@@ -65,7 +65,7 @@ The project has the Vuforia SDK installed but requires a license key that unique
 6. Paste it into your license key field given in AR camera (Vuforia Behaviour (Script) – Open Vuforia Engine configuration – App License Key).
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<b>How to download eleckt[AR] from GitHub?</b>
+<b>How to download eleckt[AR] from GitHub? :arrow_double_down:</b>
 
 1. Navigate to GitHub Repository and locate elecktAR in the search bar on the right of the top corner.
 2. Click on the green Code button at the top right and select Download Zip. This will download the entire repository as a zipped folder.
@@ -79,7 +79,7 @@ The project has the Vuforia SDK installed but requires a license key that unique
    <p>4.2.3.Replace the downloaded file in the zipped folder for this one.</p>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<b>How to add the downloaded project?</b>
+<b>How to add the downloaded project? :heavy_plus_sign:</b>
 
 1. With eleckt[AR] folder downloaded from GitHub to a location of your choosing, open the Unity Hub.
 2. With the Projects tab selected, click on ADD to manually add a project.
@@ -89,7 +89,7 @@ The project has the Vuforia SDK installed but requires a license key that unique
 
 This version of elecktAR works with twelve scenes to create your own circuits. The circuits 1, 7, and 12 are examples to show how it works.
 
-<b>How to edit a Scene in Unity?</b>
+<b>How to edit a Scene in Unity? :wrench:</b>
 
 1. Select the Scene in Unity to edit.
 2. From the hierarchy menu on the left, select ModelTarget → protoboard_model_target_generator.
