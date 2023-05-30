@@ -115,8 +115,12 @@ Various electrical 3D model components are included in electkARs’ GitHub Repos
    </p>
    <p>When your platform is switched over to Android, the Switch Platform button will be replaced with the Build button.</p>
 3. Check that all the Scenes are inserted.
-4. Click on Build button, select a location to save your apk file, give it a name and click on Save.
-5. Copy the apk file to a device and enjoy.
+   p></p>
+   <p align="center">
+   <img width="240" height="238" src="https://github.com/vsafontlopez/elecktAR/blob/main/assets/scenes.png">
+   </p>
+5. Click on Build button <img width="240" height="238" src="https://github.com/vsafontlopez/elecktAR/blob/main/assets/build_button.png">, select a location to save your apk file, give it a name and click on Save.
+6. Copy the apk file to a device and enjoy.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
