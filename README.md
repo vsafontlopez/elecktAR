@@ -102,7 +102,7 @@ Various electrical 3D model components are included in electkARs’ GitHub Repos
 
 <b>How to build the apk file in Unity?</b>
 
-1. On Unity Hub, go to the Installs tab and check if Android Build Support is installed in the Unity Version.
+<p>1. On Unity Hub, go to the Installs tab and check if Android Build Support is installed in the Unity Version.</p>
 <p align="center">
   <img width="1324" height="471" src="https://github.com/vsafontlopez/elecktAR/blob/main/assets/unity_hub_installs.png">
 </p>
