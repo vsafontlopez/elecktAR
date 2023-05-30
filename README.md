@@ -56,12 +56,12 @@ The project has the Vuforia SDK installed but requires a license key that unique
 2. Click on the green Code button at the top right and select Download Zip. This will download the entire repository as a zipped folder.
 3. Unzip the downloaded folder.
 4. Download two files that are larger than 100 MB:
-   <p>4.1. Locate elecktAR_demo → Library → ArtifactDB.</p>
-           <p>Click on the file and click on Raw button, on the right of the top corner.</p>
-           <p>Replace the downloaded file in the zipped folder for this one.</p>
-   <p>4.2. Locate elecktAR_demo → Packages → com.ptc.vuforia.engine-10.2.5.tgz.</p>
-          <p>Click on the file and click on Raw button, on the right of the top corner.</p>
-          <p>Replace the downloaded file in the zipped folder for this one.</p>
+   <p>4.1.1. Locate elecktAR_demo → Library → ArtifactDB.</p>
+   <p>4.1.2. Click on the file and click on Raw button, on the right of the top corner.</p>
+   <p>4.1.3. Replace the downloaded file in the zipped folder for this one.</p>
+   <p>4.2.1. Locate elecktAR_demo → Packages → com.ptc.vuforia.engine-10.2.5.tgz.</p>
+   <p>4.2.2. Click on the file and click on Raw button, on the right of the top corner.</p>
+   <p>4.2.3.Replace the downloaded file in the zipped folder for this one.</p>
 
 <b>How to add the downloaded project?</b>
 
