@@ -99,7 +99,7 @@ The project has the Vuforia SDK installed but requires a license key that unique
 8. 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<b>How to create and add a new 3d model to the project? :art:</b>
+<b>How to create and add a new 3d model to the project? :construction:</b>
 
 1. 
 2. 
