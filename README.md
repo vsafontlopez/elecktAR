@@ -76,7 +76,7 @@ The project has the Vuforia SDK installed but requires a license key that unique
    <p>4.1.3. Replace the downloaded file in the zipped folder for this one.</p>
    <p>4.2.1. Locate elecktAR_demo → Packages → com.ptc.vuforia.engine-10.2.5.tgz.</p>
    <p>4.2.2. Click on the file and click on Raw button, on the right of the top corner.</p>
-   <p>4.2.3.Replace the downloaded file in the zipped folder for this one.</p>
+   <p>4.2.3. Replace the downloaded file in the zipped folder for this one.</p>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <b>How to add the downloaded project? :heavy_plus_sign:</b>
