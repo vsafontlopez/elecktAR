@@ -87,6 +87,14 @@ The project has the Vuforia SDK installed but requires a license key that unique
 4. The project will immediately appear in the Projects list and be added to the Unity Hub.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<b>How to create a new flashcard? :heavy_plus_sign:</b>
+
+1. 
+2. 
+3. 
+4. 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 This version of elecktAR works with twelve scenes to create your own circuits. The circuits 1, 7, and 12 are examples to show how it works.
 
 <b>How to edit a Scene in Unity? :wrench:</b>
