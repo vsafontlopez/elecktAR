@@ -90,9 +90,11 @@ The project has the Vuforia SDK installed but requires a license key that unique
 <b>How to create a new flashcard? :white_check_mark:</b>
 
 1. Navigate to GitHub Repository and locate the folder **flashcards** on the left of the top corner.
-2. 
-3. 
+2. Click on the file **01_flashcard_template.psd (obverse)** or **02_flashcard_template.psd (reverse)** to edit the selected file.
+3. Modify on the file 01_flashcard_template.psd (obverse) 
 4. 
+5. 
+6. 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This version of elecktAR works with twelve scenes to create your own circuits. The circuits 1, 7, and 12 are examples to show how it works.
