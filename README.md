@@ -99,6 +99,18 @@ The project has the Vuforia SDK installed but requires a license key that unique
 8. 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<b>How to create and add a new 3d model to the project? :art:</b>
+
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 This version of elecktAR works with twelve scenes to create your own circuits. The circuits 1, 7, and 12 are examples to show how it works.
 
 <b>How to edit a Scene in Unity? :wrench:</b>
