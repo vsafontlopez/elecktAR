@@ -87,7 +87,7 @@ The project has the Vuforia SDK installed but requires a license key that unique
 4. The project will immediately appear in the Projects list and be added to the Unity Hub.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<b>How to create a new flashcard? :art:</b>
+<b>How to create and add a new flashcard to the project? :art:</b>
 
 1. Navigate to GitHub Repository and locate the folder **flashcards** on the left of the top corner.
 2. Click on the file **01_flashcard_template.psd** (obverse) or **02_flashcard_template.psd** (reverse) to download it.
@@ -95,7 +95,7 @@ The project has the Vuforia SDK installed but requires a license key that unique
 4. Modify on the file **01_flashcard_template.psd** (obverse) the group of layers called **"Main_text"** (it corresponds to the name of the electrical component) and **"Number"** (a number to identify every flashcard) and the layer **"Symbol"** (it corresponds to the symbol of the electrical component).
 5. Modify on the file **02_flashcard_template.psd** (reverse) the same as in the previous step and the layer **"Description"** (brief description of the electrical component).
 6. Save the modified file as a .jpg file.
-7. 
+7. Drag the file into the 
 8. 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
