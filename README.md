@@ -91,10 +91,11 @@ The project has the Vuforia SDK installed but requires a license key that unique
 
 1. Navigate to GitHub Repository and locate the folder **flashcards** on the left of the top corner.
 2. Click on the file **01_flashcard_template.psd (obverse)** or **02_flashcard_template.psd (reverse)** to edit the selected file.
-3. Modify on the file 01_flashcard_template.psd (obverse) 
-4. 
+   Open the .psd file in Photoshop or Gimp.
+4. Modify on the file 01_flashcard_template.psd (obverse) 
 5. 
 6. 
+7. 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This version of elecktAR works with twelve scenes to create your own circuits. The circuits 1, 7, and 12 are examples to show how it works.
