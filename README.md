@@ -89,7 +89,7 @@ The project has the Vuforia SDK installed but requires a license key that unique
 
 <b>How to create a new flashcard? :white_check_mark:</b>
 
-1. Navigate to GitHub Repository and locate the folder <flashcards/b> on the left of the top corner.
+1. Navigate to GitHub Repository and locate the folder **flashcards** on the left of the top corner.
 2. 
 3. 
 4. 
