@@ -87,7 +87,7 @@ The project has the Vuforia SDK installed but requires a license key that unique
 4. The project will immediately appear in the Projects list and be added to the Unity Hub.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<b>How to create a new flashcard? :heavy_plus_sign:</b>
+<b>How to create a new flashcard? :white_check_mark:</b>
 
 1. 
 2. 
