@@ -101,8 +101,8 @@ The project has the Vuforia SDK installed but requires a license key that unique
 
 <b>How to add a new 3d model to the project? :construction:</b>
 
-<p> <b>Option 1:<b> Drag the new 3D model file (.fbx, .obj...) from your file browser straight into the Unity Project folder, where 3D models are saved.
-<p> <b>Option 2:<b> Copy the new 3D model file directly into the Project's Assets folder or into the folder created to save 3D models.
+- **Option 1:** Drag the new 3D model file (.fbx, .obj...) from your file browser straight into the Unity Project folder, where 3D models are saved.
+- **Option 2:** Copy the new 3D model file directly into the Project's Assets folder or into the folder created to save 3D models.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This version of elecktAR works with twelve scenes to create your own circuits. The circuits 1, 7, and 12 are examples to show how it works.
