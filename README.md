@@ -81,7 +81,7 @@ The project has the Vuforia SDK installed but requires a license key that unique
 
 - **Option 2**
 1. Use git clone [url]: the most common usage of cloning is to simply clone a repository that already exists on GitHub, including all of the files, branches, and commits.
-   <p></p>
+   <p>To watch the video "How to clone GitHub repository?, please visit: "https://www.youtube.com/watch?v=q9wc7hUrW8U</p>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <b>How to add the downloaded project? :heavy_plus_sign:</b>
