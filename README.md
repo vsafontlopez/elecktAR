@@ -67,6 +67,7 @@ The project has the Vuforia SDK installed but requires a license key that unique
 
 <b>How to download eleckt[AR] from GitHub? :arrow_double_down:</b>
 
+- OPTION 1
 1. Navigate to GitHub Repository and locate elecktAR in the search bar on the right of the top corner.
 2. Click on the green Code button at the top right and select Download Zip. This will download the entire repository as a zipped folder.
 3. Unzip the downloaded folder.
@@ -77,6 +78,9 @@ The project has the Vuforia SDK installed but requires a license key that unique
    <p>4.2.1. Locate elecktAR_demo → Packages → com.ptc.vuforia.engine-10.2.5.tgz.</p>
    <p>4.2.2. Click on the file and click on Raw button, on the right of the top corner.</p>
    <p>4.2.3. Replace the downloaded file in the zipped folder for this one.</p>
+
+- OPTION 2
+1.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <b>How to add the downloaded project? :heavy_plus_sign:</b>
