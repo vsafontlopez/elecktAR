@@ -80,7 +80,8 @@ The project has the Vuforia SDK installed but requires a license key that unique
    <p>4.2.3. Replace the downloaded file in the zipped folder for this one.</p>
 
 - **Option 2**
-1.
+1. Use git clone [url]: the most common usage of cloning is to simply clone a repository that already exists on GitHub, including all of the files, branches, and commits.
+   <p></p>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <b>How to add the downloaded project? :heavy_plus_sign:</b>
