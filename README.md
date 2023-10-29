@@ -80,7 +80,8 @@ The project has the Vuforia SDK installed but requires a license key that unique
    <p>4.2.3. Replace the downloaded file in the zipped folder for this one.</p>
 
 - **Option 2**
-1. Use git clone [url]: the most common usage of cloning is to simply clone a repository that already exists on GitHub, including all of the files, branches, and commits.
+1. Download the latest version of Git and choose the 64/32 bit version, please visit: https://git-scm.com/downloads</p>
+2. Use git clone [url]: the most common usage of cloning is to simply clone a repository that already exists on GitHub, including all of the files, branches, and commits.
    <p>To watch the video "How to clone GitHub repository?, please visit: https://www.youtube.com/watch?v=q9wc7hUrW8U</p>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
