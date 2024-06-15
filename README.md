@@ -120,13 +120,13 @@ This version of elecktAR works with twelve scenes to create your own circuits. T
 3. Add to this GameObject the electrical 3d model component of the circuit that you need to create a new electrical circuit.
 Various electrical 3D model components are included in electkARs’ GitHub Repository.
 4. Place the 3d model over the breadboard 3D model.
+
+
+https://github.com/vsafontlopez/elecktAR/assets/129884949/096cf96e-489a-452c-a3b2-045b53f0b923
+
+
 5. Repeat steps 3 and 4 until you have created the electrical circuit that you need.
 6. Save the changes and enjoy learning.
-
-
-https://github.com/vsafontlopez/elecktAR/assets/129884949/0a90d482-161a-4e17-825e-6292b0aeb4b0
-
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <b>How to build the apk file in Unity? :hammer_and_wrench:</b>
