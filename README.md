@@ -104,6 +104,15 @@ The project has the Vuforia SDK installed but requires a license key that unique
 7. Add the .jpg file to your Vuforia Engine Developer - Target Manager (for more information visit https://library.vuforia.com/objects/device-databases). 
 8. Reimport the new database to your project by double-clicking in the .unitypackage created, with your Unity project opened.
 9. Please, check that it works.
+
+
+https://github.com/vsafontlopez/elecktAR/assets/129884949/b8a78dd8-20f0-4641-a4cd-d3eeb469f108
+
+
+
+https://github.com/vsafontlopez/elecktAR/assets/129884949/c9413542-e2ff-4cad-a9f9-aa51dd95b45a
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <b>How to add a new 3d model to the project? :construction:</b>
