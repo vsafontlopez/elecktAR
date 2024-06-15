@@ -132,6 +132,11 @@ https://github.com/vsafontlopez/elecktAR/assets/129884949/7dfba970-a802-46c1-8bf
 
 
 6. Save the changes and enjoy learning.
+
+
+https://github.com/vsafontlopez/elecktAR/assets/129884949/25e57881-a1da-406f-aa05-32f7a1d441dc
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <b>How to build the apk file in Unity? :hammer_and_wrench:</b>
