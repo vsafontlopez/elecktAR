@@ -126,6 +126,11 @@ https://github.com/vsafontlopez/elecktAR/assets/129884949/096cf96e-489a-452c-a3b
 
 
 5. Repeat steps 3 and 4 until you have created the electrical circuit that you need.
+
+
+https://github.com/vsafontlopez/elecktAR/assets/129884949/7dfba970-a802-46c1-8bff-dcb3d7077953
+
+
 6. Save the changes and enjoy learning.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
