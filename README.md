@@ -122,7 +122,7 @@ Various electrical 3D model components are included in electkARs’ GitHub Repos
 4. Place the 3d model over the breadboard 3D model.
 
 
-https://github.com/vsafontlopez/elecktAR/assets/129884949/096cf96e-489a-452c-a3b2-045b53f0b923
+<img width="530" height="190" src="https://github.com/vsafontlopez/elecktAR/assets/129884949/096cf96e-489a-452c-a3b2-045b53f0b923">
 
 
 5. Repeat steps 3 and 4 until you have created the electrical circuit that you need.
